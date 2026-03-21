@@ -1,0 +1,3 @@
+[workspace]
+resolver="3"
+members = ["lumina-server", "./lumina-client/src-tauri"]
